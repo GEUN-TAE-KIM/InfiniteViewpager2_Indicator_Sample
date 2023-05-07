@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="WhiteButton" >
+        <item name="android:textColor">#707070</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:background">@drawable/button_round_white</item>
+        <item name="android:stateListAnimator">@null</item>
+    </style>
+</resources>
